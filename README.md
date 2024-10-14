@@ -1,5 +1,4 @@
 # Hi, I'm Husna! 👋  
-![Profile Views](https://komarev.com/ghpvc/?username=Husna&color=green)
 
 I’m a Software Engineering student passionate about learning new technologies and building creative solutions.  
 
