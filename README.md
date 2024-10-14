@@ -1,6 +1,6 @@
 # Hi, I'm Husna! 👋  
 
-I’m a Software Engineering student passionate about learning new technologies and building creative solutions.  
+I’m a Software Engineering student passionate about learning new technologies and building creative solutions. My expectation for this course is to deepening my knowledge of software engineering principles and explore real-world software development practices.
 
 ## A Little About Me 🌱  
 - 🌐 I'm interested in algorithms and Problem Solving.
@@ -16,5 +16,6 @@ I’m a Software Engineering student passionate about learning new technologies 
 - 💡 Open-source projects and hackathons!  
 
 Feel free to connect with me!
+👉 [My GitHub Profile](https://github.com/hsnaadia)
 
 
