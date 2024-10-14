@@ -1,6 +1,7 @@
-## Hi there 👋
+# Hi, I'm Husna! 👋  
+![Profile Views](https://komarev.com/ghpvc/?username=Husna&color=green)
 
-My name is Husna Nadiah and i'm a Software Engineering student in UM.  
+I’m a Software Engineering student passionate about learning new technologies and building creative solutions.  
 
 ## A Little About Me 🌱  
 - 🌐 I'm interested in algorithms and Problem Solving.
